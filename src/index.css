@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    font-size: large;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #eefefe;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.App{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.header{
+  display: block;
+  height: 300px;
+  width: 100%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  /* filter: blur(2px); */
+}
+
+.worker{
+  /* background-color: violet; */
+  display: flex;
+  align-items: center;
+  margin-top: 0px;
+  /* margin-left: 10%;
+  margin-right: 10%; */
+}
+
+h1{
+  margin-top: 0px;
+}
+
+.photo{
+  max-width: 400px;
+}
+.carousel-root{
+  /* height: 600px; */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.mer{
+  width: 100%;
+  max-height: 100%;
+}
+
+.legend:hover{
+  cursor: pointer;
+}
+
+.footer{
+  display: flex;
+  /* flex-direction: row; */
+  justify-content: center;
+}
+
+
+.title{
+  color: #eefefe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100px;
+  position: absolute;
+  top: 150px;
+  background-color: #ffffff10;
+  backdrop-filter: blur(12px);
+}
