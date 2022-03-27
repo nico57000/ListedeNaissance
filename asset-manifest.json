@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ListedeNaissance/static/css/main.636544d3.css",
+    "main.js": "/ListedeNaissance/static/js/main.f6818de8.js",
+    "static/js/787.855e8862.chunk.js": "/ListedeNaissance/static/js/787.855e8862.chunk.js",
+    "static/media/kit.jpg": "/ListedeNaissance/static/media/kit.6a4cd7ec0120ec708f5e.jpg",
+    "static/media/topponcino.jpg": "/ListedeNaissance/static/media/topponcino.13ce42fb4dcc6ce23769.jpg",
+    "static/media/paysage.jpg": "/ListedeNaissance/static/media/paysage.4259eb636d03404b0137.jpg",
+    "static/media/perso.png": "/ListedeNaissance/static/media/perso.7b1732ea463a97f75ad3.png",
+    "static/media/babyphone.jpg": "/ListedeNaissance/static/media/babyphone.c170c86c3a76a7842c57.jpg",
+    "static/media/lit.jpg": "/ListedeNaissance/static/media/lit.0cb20b91ba77acc994ed.jpg",
+    "static/media/tapis.jpg": "/ListedeNaissance/static/media/tapis.57d3e10c10b31fa16c66.jpg",
+    "index.html": "/ListedeNaissance/index.html",
+    "main.636544d3.css.map": "/ListedeNaissance/static/css/main.636544d3.css.map",
+    "main.f6818de8.js.map": "/ListedeNaissance/static/js/main.f6818de8.js.map",
+    "787.855e8862.chunk.js.map": "/ListedeNaissance/static/js/787.855e8862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.636544d3.css",
+    "static/js/main.f6818de8.js"
+  ]
+}
