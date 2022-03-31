@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
-import topponcino from "./images/topponcino.jpg"
+// import topponcino from "./images/topponcino.jpg"
 import kit from "./images/kit.jpg"
 import lit from "./images/lit.jpg"
 import tapis from "./images/tapis.jpg"
@@ -14,13 +14,31 @@ export default class Liste extends Component {
     constructor() {
         super()
 
-        
+        this.state ={
+            Items:[]
+        }
+        this.loaddata = this.loaddata.bind(this)
         this.handleclick = this.handleclick.bind(this)
     }
 
 
     componentDidMount(){
+        this.loaddata()
+    }
 
+    loaddata() {
+        let header = new Headers();
+        header.append('Content-Type', 'application/json')
+        header.append('Access-Control-Allow-Origin','*')
+
+        fetch('https://birthlist-api.herokuapp.com/api/BirthItem', {
+            method: 'GET',
+            headers: header
+        }).then(response => response.json()
+            .then(response => {
+                this.setState({ Items: response })
+            })
+        );
     }
 
     handleclick(e) {
@@ -33,7 +51,7 @@ export default class Liste extends Component {
         return (
             <Carousel>
                 <div>
-                    <img alt="Topponcino" src={topponcino} className="photo" />
+                    <img alt="Topponcino" src={require('./images/topponcino.jpg')} className="photo" />
                     <button name='https://www.etsy.com/fr/listing/808414372?fbclid=IwAR1EV72xb5i9LL8gr0pGooi7MhbrNWxUm9zy7nDZ0573A1Zj01eCYpWHZLU' className="legend" onClick={this.handleclick}>Topponcino</button>
                 </div>
                 <div>
