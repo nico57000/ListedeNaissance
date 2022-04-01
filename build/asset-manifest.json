@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/ListedeNaissance/static/css/main.636544d3.css",
-    "main.js": "/ListedeNaissance/static/js/main.51520434.js",
+    "main.css": "/ListedeNaissance/static/css/main.b1320e2b.css",
+    "main.js": "/ListedeNaissance/static/js/main.2b33e649.js",
     "static/js/787.855e8862.chunk.js": "/ListedeNaissance/static/js/787.855e8862.chunk.js",
     "static/media/kit.jpg": "/ListedeNaissance/static/media/kit.6a4cd7ec0120ec708f5e.jpg",
+    "static/media/sea-6747081_960_720.jpg": "/ListedeNaissance/static/media/sea-6747081_960_720.933cdc8fa93e5e988d25.jpg",
+    "static/media/sea-6747067_960_720.jpg": "/ListedeNaissance/static/media/sea-6747067_960_720.d73f0d59a64430c4ca64.jpg",
     "static/media/topponcino.jpg": "/ListedeNaissance/static/media/topponcino.13ce42fb4dcc6ce23769.jpg",
     "static/media/paysage.jpg": "/ListedeNaissance/static/media/paysage.4259eb636d03404b0137.jpg",
+    "static/media/jpg": "/ListedeNaissance/static/media/9769ae7a253dd77c32ae6fed9d4855a4.212d9fc23ad41893e386.jpg",
     "static/media/perso.png": "/ListedeNaissance/static/media/perso.7b1732ea463a97f75ad3.png",
+    "static/media/raie.jpg": "/ListedeNaissance/static/media/raie.ea222679ae273e2e4aeb.jpg",
     "static/media/babyphone.jpg": "/ListedeNaissance/static/media/babyphone.c170c86c3a76a7842c57.jpg",
     "static/media/lit.jpg": "/ListedeNaissance/static/media/lit.0cb20b91ba77acc994ed.jpg",
     "static/media/tapis.jpg": "/ListedeNaissance/static/media/tapis.57d3e10c10b31fa16c66.jpg",
     "index.html": "/ListedeNaissance/index.html",
-    "main.636544d3.css.map": "/ListedeNaissance/static/css/main.636544d3.css.map",
-    "main.51520434.js.map": "/ListedeNaissance/static/js/main.51520434.js.map",
+    "main.b1320e2b.css.map": "/ListedeNaissance/static/css/main.b1320e2b.css.map",
+    "main.2b33e649.js.map": "/ListedeNaissance/static/js/main.2b33e649.js.map",
     "787.855e8862.chunk.js.map": "/ListedeNaissance/static/js/787.855e8862.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.636544d3.css",
-    "static/js/main.51520434.js"
+    "static/css/main.b1320e2b.css",
+    "static/js/main.2b33e649.js"
   ]
 }
