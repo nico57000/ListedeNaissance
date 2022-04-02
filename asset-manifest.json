@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ListedeNaissance/static/css/main.b1320e2b.css",
+    "main.css": "/ListedeNaissance/static/css/main.ca722dd2.css",
     "main.js": "/ListedeNaissance/static/js/main.2b33e649.js",
     "static/js/787.855e8862.chunk.js": "/ListedeNaissance/static/js/787.855e8862.chunk.js",
     "static/media/kit.jpg": "/ListedeNaissance/static/media/kit.6a4cd7ec0120ec708f5e.jpg",
@@ -15,12 +15,12 @@
     "static/media/lit.jpg": "/ListedeNaissance/static/media/lit.0cb20b91ba77acc994ed.jpg",
     "static/media/tapis.jpg": "/ListedeNaissance/static/media/tapis.57d3e10c10b31fa16c66.jpg",
     "index.html": "/ListedeNaissance/index.html",
-    "main.b1320e2b.css.map": "/ListedeNaissance/static/css/main.b1320e2b.css.map",
+    "main.ca722dd2.css.map": "/ListedeNaissance/static/css/main.ca722dd2.css.map",
     "main.2b33e649.js.map": "/ListedeNaissance/static/js/main.2b33e649.js.map",
     "787.855e8862.chunk.js.map": "/ListedeNaissance/static/js/787.855e8862.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1320e2b.css",
+    "static/css/main.ca722dd2.css",
     "static/js/main.2b33e649.js"
   ]
 }
