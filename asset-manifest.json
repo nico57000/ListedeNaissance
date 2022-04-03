@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ListedeNaissance/static/css/main.77102aa6.css",
-    "main.js": "/ListedeNaissance/static/js/main.c59db3b9.js",
+    "main.js": "/ListedeNaissance/static/js/main.aa2cf1f1.js",
     "static/js/787.855e8862.chunk.js": "/ListedeNaissance/static/js/787.855e8862.chunk.js",
     "static/media/Pacifico-Regular.ttf": "/ListedeNaissance/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
     "static/media/kit.jpg": "/ListedeNaissance/static/media/kit.6a4cd7ec0120ec708f5e.jpg",
@@ -10,6 +10,7 @@
     "static/media/OoohBaby-Regular.ttf": "/ListedeNaissance/static/media/OoohBaby-Regular.ef00a4e66a06bd835033.ttf",
     "static/media/DancingScript-VariableFont_wght.ttf": "/ListedeNaissance/static/media/DancingScript-VariableFont_wght.994c175ce44b12795d05.ttf",
     "static/media/SendFlowers-Regular.ttf": "/ListedeNaissance/static/media/SendFlowers-Regular.2fd2518c6ee58bd505e0.ttf",
+    "static/media/lapin.jpg": "/ListedeNaissance/static/media/lapin.849bc3906ea748bc093c.jpg",
     "static/media/topponcino.jpg": "/ListedeNaissance/static/media/topponcino.13ce42fb4dcc6ce23769.jpg",
     "static/media/DancingScript-Medium.ttf": "/ListedeNaissance/static/media/DancingScript-Medium.3a0c10743252bc5d2904.ttf",
     "static/media/DancingScript-SemiBold.ttf": "/ListedeNaissance/static/media/DancingScript-SemiBold.6521a29fcc8af5c22376.ttf",
@@ -24,11 +25,11 @@
     "static/media/tapis.jpg": "/ListedeNaissance/static/media/tapis.57d3e10c10b31fa16c66.jpg",
     "index.html": "/ListedeNaissance/index.html",
     "main.77102aa6.css.map": "/ListedeNaissance/static/css/main.77102aa6.css.map",
-    "main.c59db3b9.js.map": "/ListedeNaissance/static/js/main.c59db3b9.js.map",
+    "main.aa2cf1f1.js.map": "/ListedeNaissance/static/js/main.aa2cf1f1.js.map",
     "787.855e8862.chunk.js.map": "/ListedeNaissance/static/js/787.855e8862.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77102aa6.css",
-    "static/js/main.c59db3b9.js"
+    "static/js/main.aa2cf1f1.js"
   ]
 }
